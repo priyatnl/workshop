@@ -1,4 +1,3 @@
 #intro to github
 made a new line
-
-line 2 is removed and line 3 is added
+made few changes
